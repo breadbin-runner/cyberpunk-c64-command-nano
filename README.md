@@ -26,7 +26,7 @@ NANO brings those moments closer. It is a compact macOS companion for your C64 U
 
 ## Downloads
 
-The macOS version for Apple Silicon will be available in [Releases](https://github.com/breadbin-runner/cyberpunk-c64-command-nano/releases). A Windows version is planned and will follow.
+Download the macOS version for Apple Silicon from [Releases](https://github.com/breadbin-runner/cyberpunk-c64-command-nano/releases/latest). A Windows version is planned and will follow.
 
 The current Mac build is ad-hoc signed and is not notarized by Apple. macOS may require approval in **Privacy & Security** before opening it.
 
