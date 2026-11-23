@@ -30,6 +30,13 @@ The macOS version for Apple Silicon will be available in [Releases](https://gith
 
 The current Mac build is ad-hoc signed and is not notarized by Apple. macOS may require approval in **Privacy & Security** before opening it.
 
+## Manuals
+
+Take NANO with you on your next C64 session. The illustrated guides cover setup, disks, SID music, World Radio and more.
+
+- [Deutsches Handbuch (PDF)](NANO-Handbuch-DE.pdf)
+- [English user guide (PDF)](NANO-User-Guide-EN.pdf)
+
 ## Getting connected
 
 Open NANO, choose **Connect** and enter your C64 Ultimate’s address. Enable local network access and Web Remote Control for the connection. FTP is needed to browse files stored on the Ultimate.
