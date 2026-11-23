@@ -1,3 +1,5 @@
+<p align="center"><img src="nano-logo.png" alt="Cyberpunk C64 Command NANO logo" width="620"></p>
+
 # CYBERPUNK C64 COMMAND NANO
 
 **A little Mac companion for a big 8-bit world.**  
@@ -58,3 +60,8 @@ If NANO makes your retro nights a little brighter, you can support the project t
 
 **SEE YOU ON THE C64.**  
 Made with care for the community · Breadbin Runner
+
+
+## Windows
+
+A Windows version is planned and will follow. Stay tuned for updates!
