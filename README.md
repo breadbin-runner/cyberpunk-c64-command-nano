@@ -76,7 +76,7 @@ Made with care for the community · Breadbin Runner
 
 
 
-## Windows version – FTP setup (English)
+## Windows version – FTP setup (English) - In the next update, NANO will automatically use the C64 Ultimate’s detected hostname for the FTP username, so you won’t need to enter it manually.
 
 1. On your C64 Ultimate, open **Network Services & Timezone**. Enable **FTP File Service** and note the **Hostname**, for example `my-c64`.
 2. In NANO, open **Settings** and expand **FTP login for Ultimate storage**.
@@ -84,7 +84,7 @@ Made with care for the community · Breadbin Runner
 4. Enter your FTP password if you configured one on the Ultimate. Otherwise, leave the field empty.
 5. Click **Save**, then select **Ultimate** on the NANO home screen to browse your files.
 
-## Windows-Version – FTP-Einrichtung (Deutsch)
+## Windows-Version – FTP-Einrichtung (Deutsch) - Im nächsten Update wird NANO automatisch den vom C64 Ultimate erkannten Hostnamen als FTP-Benutzernamen verwenden, sodass Sie ihn nicht mehr manuell eingeben müssen.
 
 1. Öffne am C64 Ultimate **Network Services & Timezone**. Aktiviere **FTP File Service** und merke dir den **Hostname**, zum Beispiel `mein-c64`.
 2. Öffne in NANO die **Einstellungen** und klappe **FTP-Anmeldung für den Ultimate-Speicher** auf.
